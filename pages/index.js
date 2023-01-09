@@ -19,7 +19,7 @@ import Carousel from "react-bootstrap-carousel";
 import "react-bootstrap-carousel/dist/react-bootstrap-carousel.css";
 
 
-export default function Home() {
+function HomePage() {
   const [darkMode, setDarkMode] = useState(false);
   return (
     <div className={darkMode ? "dark" : ""}>
@@ -145,3 +145,5 @@ export default function Home() {
       
   )
 }
+
+export default HomePage

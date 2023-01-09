@@ -20,7 +20,7 @@
     "react-icons": "^4.7.1"
   },
   "devDependencies": {
-    "homepage": "https://brahmg1.github.io/react-portfolio",
+    "homepage": "http://brahmg1.github.io/react-portfolio",
     "autoprefixer": "^10.4.13",
     "gh-pages": "^4.0.0",
     "postcss": "^8.4.21",
